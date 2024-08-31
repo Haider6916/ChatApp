@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959536907895",
+    "project_id": "chatcred-41b58",
+    "storage_bucket": "chatcred-41b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959536907895:android:4c5f3d9436f83be1ff6872",
+        "android_client_info": {
+          "package_name": "com.rnfirebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959536907895-cackug33jaf4vooh6fdfasr0hmh75818.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVUCVaseougt1W160uZGXIvxjRFW4CmYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959536907895-cackug33jaf4vooh6fdfasr0hmh75818.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
